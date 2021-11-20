@@ -11,7 +11,7 @@ Heroku是一个支持多种编程语言的云平台即服务。目前支持Ruby�
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fyingnengdd%2Fv14)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fyingnengdd%2Fv21)
 
 ## 注意
 
